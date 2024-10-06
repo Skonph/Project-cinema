@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/skonph/Project-cinema/movie"
-	"github.com/skonph/Project-cinema/ticket"
+	"github.com/Skonph/Project-cinema/movie"
+	"github.com/Skonph/Project-cinema/ticket"
 )
 
 // package movie
